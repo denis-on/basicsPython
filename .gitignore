@@ -1,5 +1,4 @@
 .idea
 venv
-examples*
-examples*/*
+**/examples*
 *.txt
